@@ -1,4 +1,5 @@
-console.log("HELLO World");
-let date =newDate();
-arrow function()=> a+b;
-test test;
+let difficultSpelling = "Mississippi";
+let myRegex = /s+/g; // Change this line
+let result = difficultSpelling.match(myRegex);
+
+console.log(result)
