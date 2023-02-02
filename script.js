@@ -12,3 +12,8 @@ let chewieRegex = /Aa*/; // Change this line
 let result = chewieQuote.match(chewieRegex);
 
 console.log(result)
+
+
+let text = "<h1>Winter is coming</h1>";
+let myRegex = /<.*?>/; // Change this line
+let result = text.match(myRegex);
