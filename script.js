@@ -53,4 +53,7 @@ return arr.indexOf(elem) >= 0 ? true :false
 
 console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));
 
-console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));
+console.log(quickCheck('Hello'));
+=======
+
+
