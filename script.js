@@ -56,4 +56,6 @@ console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms'));
 console.log(quickCheck('Hello'));
 
 
+let arr=[];
+
 
