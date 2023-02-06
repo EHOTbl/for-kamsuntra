@@ -57,6 +57,7 @@ console.log(quickCheck('Hello'));
 
 
 let arr=[];
+let str = "";
 
 let date= new Date();
 
