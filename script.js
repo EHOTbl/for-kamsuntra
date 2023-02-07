@@ -64,3 +64,6 @@ let date= new Date();
 for (let el in arr){
   el+=10;
 };
+
+
+arr.forEach(el=>console.log(el));
