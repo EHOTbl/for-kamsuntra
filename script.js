@@ -61,3 +61,6 @@ let str = "";
 
 let date= new Date();
 
+for (let el in arr){
+  el+=10;
+};
