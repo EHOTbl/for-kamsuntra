@@ -74,4 +74,4 @@ const sum = nums.reduce(function (currentSum, currentNumber) {
   return currentSum + currentNumber
 }, 0);
 
-console.log("12.02");
+console.log("13.02");
